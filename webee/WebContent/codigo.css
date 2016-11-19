@@ -1,0 +1,8 @@
+body { background: url('http://www.pixeden.com/media/k2/galleries/93/003-subtle-light-pattern-background-texture.jpg'); font-family: Arsenale;}
+.corpo { background: white; width: 800px; font-family: Verdana; }
+.links { background: black; padding: 10px; font-size: 20px; width: 113.33px; float: right; text-transform: uppercase;}
+.links:hover{background: gray; color: black;}
+.links a {text-decoration: none; color: gray;}
+.links a:hover{ color: gray; color: black;}
+form {background: transparent; text-align: right; text-transform: capitalize; margin-left: 20px; font-style: bold;}
+form input{ height: 30px; font-size: 16px;}
